@@ -1,0 +1,6 @@
+import io.netty.handler.ssl.ApplicationProtocolConfig.Protocol;
+public class FunctionUse714 {
+public void funcUse() {
+Protocol protocol = new Protocol();
+}
+}
